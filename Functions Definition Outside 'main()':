@@ -1,0 +1,1 @@
+All the functions ('addOrder', 'displayOrder', 'findOrder', 'calculateTotalRevenue') are defined outside 'main()' to allow reuse and proper scoping.
