@@ -1,0 +1,1 @@
+Loop structure added a 'do-while' loop to provide a menu based interaction, ensuring the program runs until the user decides to exit.
